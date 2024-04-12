@@ -19,13 +19,15 @@ Os commits devem ser sinalizados assim:
   - wip: O que eu fiz.
       - Exemplo:
         - wip: terminado o layout em tema claro
+          - Mas isso deixa claro que ainda faltam coisas pra vc fazer 
       - o termo wip significa work in progress e sempre deve vir antes do commit.
         
 🐛 Consertei um bug:
   - fix: O que eu fiz.
     - Exemplo:
       - fix: Agora a busca não vem imagens mais.
+        - Isso indica que o bug já era, se ainda tiver uma vírgula dele, aí é wip
 
 🆕 Fiz algo novo:
   - feat: O que eu fiz
-    - Precisa de exemplo não né? vcs já entenderam.
+    - Precisa de exemplo não né? vcs já entenderam. Só mandem isso quando terminarem msm.
